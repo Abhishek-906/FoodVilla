@@ -5,8 +5,8 @@
   "main": "Ap.js",
   "scripts": {
     "test": "jest",
-     "start": "parcel index.html",
-  "build": "parcel build index.html"
+     "start": "parcel swggy.html",
+  "build": "parcel swggy.html"
   },
   "author": "Abhi",
   "license": "ISC",
