@@ -4,12 +4,14 @@
   "description": "this is react",
   "main": "Ap.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel swggy.html",
+    "build": "parcel  swggy.html"
   },
   "author": "Abhi",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.12.0",
+    "parcel": "^2.13.0",
     "process": "^0.11.10"
   },
   "dependencies": {
