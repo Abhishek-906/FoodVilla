@@ -1,5 +1,5 @@
 5203
-55C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel133761158664431450 1
+55C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel133761171582183634 1
 94C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\yup\node_modules\type-fest\source\entries.d.ts133669757114930296 0
 82C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\caniuse-lite\data\features\json.js133761158652871645 0
 75C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\utility-types\dist\index.js133634453950722491 0
@@ -29,7 +29,7 @@
 98C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\caniuse-lite\data\features\spellcheck-attribute.js133761158655861855 0
 83C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\caniuse-lite\data\regions\alt-af.js133761158642764934 0
 72C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\node-addon-api\nothing.c133761158639288967 0
-47C:\Users\Lenovo\Desktop\foodSwiggy\package.json133761162781790556 0
+47C:\Users\Lenovo\Desktop\foodSwiggy\package.json133761171892363453 0
 70C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\semver\functions\lt.js133761158643178603 0
 75C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@swc\helpers\esm\_update.js133761158646912954 0
 54C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@lezer133761158662277744 1
@@ -60,7 +60,7 @@
 73C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\core\src\requests133761158647082479 1
 80C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\resolver-default\LICENSE133761158639821828 0
 86C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\type-fest\source\iterable-element.d.ts133634453957868778 0
-52C:\Users\Lenovo\Desktop\foodSwiggy\package-lock.json133761158665196814 0
+52C:\Users\Lenovo\Desktop\foodSwiggy\package-lock.json133761171582834250 0
 70C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@swc\core\package.json133761158641796615 0
 93C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\yup\node_modules\type-fest\source\except.d.ts133669757115010334 0
 106C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@swc\helpers\_\_unsupported_iterable_to_array\package.json133761158649982440 0
@@ -77,7 +77,7 @@
 54C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\braces133761111729258005 1
 75C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\events\package.json133761158642475022 0
 78C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\react-content-loader\README.md133664443015949838 0
-39C:\Users\Lenovo\Desktop\foodSwiggy\dist133761162255447034 1
+39C:\Users\Lenovo\Desktop\foodSwiggy\dist133761171895510300 1
 77C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\bootstrap\scss\bootstrap.scss133634470955055918 0
 38C:\Users\Lenovo\Desktop\foodSwiggy\src133761111916810318 1
 67C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\env-paths\readme.md133634453950552452 0
@@ -97,7 +97,7 @@
 97C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\ordered-binary\.nyc_output\processinfo\index.json133761158642048948 0
 73C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\watcher\README.md133761158644706060 0
 108C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\yup\node_modules\type-fest\source\union-to-intersection.d.ts133669757119629724 0
-66C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\.package-lock.json133761158665611893 0
+66C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\.package-lock.json133761171583310922 0
 81C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\semver\functions\compare-build.js133761158641660686 0
 71C:\Users\Lenovo\Desktop\foodSwiggy\src\component\assests\img\Entre.jpeg133739725420627796 0
 77C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\react-error-overlay\README.md133634453953741884 0
@@ -105,7 +105,7 @@
 79C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\caniuse-lite\data\regions\UZ.js133761158656638174 0
 96C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@popperjs\core\lib\modifiers\applyStyles.js.flow133634470944661163 0
 99C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\yup\node_modules\type-fest\source\package-json.d.ts133669757117476850 0
-47C:\Users\Lenovo\Desktop\foodSwiggy\node_modules133761158664431450 1
+47C:\Users\Lenovo\Desktop\foodSwiggy\node_modules133761171582173546 1
 58C:\Users\Lenovo\Desktop\foodSwiggy\src\component\SignUp.js133669733258535129 0
 123C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133634453968421114 0
 92C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\lmdb\dependencies\v8\v8-fast-api-calls-v16.h133634453972831266 0
@@ -214,7 +214,7 @@
 79C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\.bin\update-browserslist-db.cmd133761158657983276 0
 73C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\semver\functions\clean.js133761158640813002 0
 103C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\yup\node_modules\type-fest\source\required-keys-of.d.ts133669757118072918 0
-52C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@swc133761158663735879 1
+52C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@swc133761171582173546 1
 74C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\graph\src\types.js133761158643243277 0
 78C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\domutils\lib\querying.d.ts.map133761158644497092 0
 93C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\posthtml\node_modules\posthtml-parser\license133634453946776397 0
@@ -229,7 +229,7 @@
 75C:\Users\Lenovo\Desktop\foodSwiggy\src\component\assests\img\headCheif.jpeg133739723059487607 0
 77C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\runtime-react-refresh133761158641049946 1
 56C:\Users\Lenovo\Desktop\foodSwiggy\src\component\Home.js133726627188818107 0
-65C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@msgpackr-extract133761158660567254 1
+65C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@msgpackr-extract133761171582183634 1
 86C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\bootstrap\scss\forms\_input-group.scss133634470952794300 0
 79C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\core\lib\projectPath.js133761158646273058 0
 70C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\to-regex-range\LICENSE133634453949777179 0
@@ -345,7 +345,7 @@
 126C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts.map133761158642317421 0
 119C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js133761158644102735 0
 52C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\.bin133761158660557284 1
-53C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@lmdb133761158660567254 1
+53C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@lmdb133761171582193562 1
 75C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\domutils\lib\esm\feeds.d.ts133761158644946710 0
 84C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\htmlnano\lib\modules\mergeStyles.cjs133634453956163014 0
 103C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\yup\node_modules\type-fest\source\conditional-pick.d.ts133669757114616310 0
@@ -2101,7 +2101,7 @@
 71C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\parent-module\readme.md133634453950532442 0
 58C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\parcel\lib133761158641080331 1
 58C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\parcel\src133761158641551798 1
-61C:\Users\Lenovo\Desktop\foodSwiggy\dist\swggy.db3ec2b3.js.map133761162255436980 0
+61C:\Users\Lenovo\Desktop\foodSwiggy\dist\swggy.db3ec2b3.js.map133761171895497877 0
 79C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\caniuse-lite\data\regions\GN.js133761158651365230 0
 65C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\parcel\src\cli.js133761158641419143 0
 88C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\htmlnano\lib\modules\removeUnusedCss.mjs133634453970720288 0
@@ -2391,7 +2391,7 @@
 79C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\lmdb\dependencies\lz4\lib\lz4.c133634453961772872 0
 79C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\lmdb\dependencies\lz4\lib\lz4.h133634453971565669 0
 67C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@swc\helpers\_\_jsx133761158649284151 1
-59C:\Users\Lenovo\Desktop\foodSwiggy\dist\Entre.6fd28a21.jpeg133761162254444100 0
+59C:\Users\Lenovo\Desktop\foodSwiggy\dist\Entre.6fd28a21.jpeg133761171895259066 0
 83C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\lmdb\dependencies\lz4\lib\lz4file.c133634453962018193 0
 82C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\feature-flags\src\types.js133761158641531707 0
 100C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\caniuse-lite\data\features\document-currentscript.js133761158649706956 0
@@ -2461,7 +2461,7 @@
 99C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1133634453958970934 0
 90C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@popperjs\core\lib\utils\computeOffsets.js133634470945389649 0
 76C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\workers\lib\child.js133761158641541706 0
-50C:\Users\Lenovo\Desktop\foodSwiggy\dist\swggy.html133761162254433406 0
+50C:\Users\Lenovo\Desktop\foodSwiggy\dist\swggy.html133761171894928368 0
 99C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133634453962964995 0
 99C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133634453959140988 0
 89C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@popperjs\core\lib\utils\debounce.js.flow133634470945484456 0
@@ -2954,7 +2954,7 @@
 100C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\caniuse-lite\data\features\element-scroll-methods.js133761158649951146 0
 77C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\domutils\lib\esm\traversal.js133761158642742647 0
 99C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@swc\helpers\src\_iterable_to_array_limit_loose.mjs133761158651075273 0
-62C:\Users\Lenovo\Desktop\foodSwiggy\dist\PrepCook.3817d531.jpeg133761162254433406 0
+62C:\Users\Lenovo\Desktop\foodSwiggy\dist\PrepCook.3817d531.jpeg133761171894430700 0
 92C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\utils\test\input\sourcemap\inline.js133761158644881350 0
 62C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\domhandler\lib133761158642715537 1
 66C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\domhandler\LICENSE133761158640168103 0
@@ -2969,7 +2969,7 @@
 94C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\transformer-js\src\esmodule-helpers.js133761158640857021 0
 79C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@swc\helpers\esm\_instanceof.js133761158646459442 0
 74C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\domhandler\lib\esm\node.js133761158641296357 0
-57C:\Users\Lenovo\Desktop\foodSwiggy\dist\swggy.db3ec2b3.js133761162255352930 0
+57C:\Users\Lenovo\Desktop\foodSwiggy\dist\swggy.db3ec2b3.js133761171895416640 0
 70C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\domelementtype\lib\esm133761111829755290 1
 91C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\core\test\SymbolPropagation.test.js133761158646637616 0
 81C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\domelementtype\lib\esm\index.d.ts133634453954167113 0
@@ -3485,7 +3485,7 @@
 87C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\caniuse-lite\data\features\dommatrix.js133761158649837741 0
 86C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\caniuse-lite\data\features\download.js133761158649848412 0
 91C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@swc\helpers\_\_async_iterator\package.json133761158647375710 0
-64C:\Users\Lenovo\Desktop\foodSwiggy\dist\BarManager.a45ec57a.jpeg133761162254433406 0
+64C:\Users\Lenovo\Desktop\foodSwiggy\dist\BarManager.a45ec57a.jpeg133761171894410545 0
 93C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\caniuse-lite\data\features\element-closest.js133761158649930044 0
 96C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\caniuse-lite\data\features\element-from-point.js133761158649940517 0
 79C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\reporter-dev-server\src133761158643022108 1
@@ -3769,7 +3769,7 @@
 65C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\callsites\license133634453950532442 0
 67C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\callsites\readme.md133634453951160920 0
 69C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\browserslist\error.js133761158641019038 0
-58C:\Users\Lenovo\Desktop\foodSwiggy\dist\host.279b4a01.jpeg133761162254433406 0
+58C:\Users\Lenovo\Desktop\foodSwiggy\dist\host.279b4a01.jpeg133761171894410545 0
 82C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\@parcel\markdown-ansi\package.json133761158641388624 0
 68C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\browserslist\LICENSE133761158640168103 0
 63C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\braces\index.js133634453951350965 0
@@ -5195,10 +5195,10 @@
 59C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\.bin\semver133761158657983276 0
 63C:\Users\Lenovo\Desktop\foodSwiggy\node_modules\.bin\semver.cmd133761158657983276 0
 62C:\Users\Lenovo\Desktop\foodSwiggy\dist\download.15a162ff.jpeg133667070314952613 0
-63C:\Users\Lenovo\Desktop\foodSwiggy\dist\headCheif.00f7abf7.jpeg133761162254433406 0
-65C:\Users\Lenovo\Desktop\foodSwiggy\dist\PastryChief.fe9bd880.jpeg133761162254433406 0
+63C:\Users\Lenovo\Desktop\foodSwiggy\dist\headCheif.00f7abf7.jpeg133761171894430700 0
+65C:\Users\Lenovo\Desktop\foodSwiggy\dist\PastryChief.fe9bd880.jpeg133761171895259066 0
 58C:\Users\Lenovo\Desktop\foodSwiggy\dist\swggy.12c3d942.css133667070316502485 0
-58C:\Users\Lenovo\Desktop\foodSwiggy\dist\swggy.66848564.css133761162254433406 0
-62C:\Users\Lenovo\Desktop\foodSwiggy\dist\swggy.66848564.css.map133761162255282547 0
+58C:\Users\Lenovo\Desktop\foodSwiggy\dist\swggy.66848564.css133761171894410545 0
+62C:\Users\Lenovo\Desktop\foodSwiggy\dist\swggy.66848564.css.map133761171894897254 0
 57C:\Users\Lenovo\Desktop\foodSwiggy\dist\swggy.b2f7022b.js133634475096495865 0
-58C:\Users\Lenovo\Desktop\foodSwiggy\dist\team.8bf484e4.jpeg133761162254433406 0
+58C:\Users\Lenovo\Desktop\foodSwiggy\dist\team.8bf484e4.jpeg133761171894430700 0
