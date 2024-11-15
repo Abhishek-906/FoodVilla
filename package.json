@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
      "start": "parcel swggy.html",
-  "build": "parcel swggy.html"
+  "build": "parcel swggy.html",
+  "postinstall": "chmod -R 755 ./node_modules"
   },
   "author": "Abhi",
   "license": "ISC",
