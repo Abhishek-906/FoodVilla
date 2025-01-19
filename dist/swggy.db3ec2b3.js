@@ -2990,12 +2990,12 @@ const appRouter = (0, _reactRouterDom.createBrowserRouter)([
         path: '/',
         element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(AppLayout, {}, void 0, false, {
             fileName: "src/Ap.js",
-            lineNumber: 32,
+            lineNumber: 31,
             columnNumber: 14
         }, undefined),
         errorElement: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _errorPageJsDefault.default), {}, void 0, false, {
             fileName: "src/Ap.js",
-            lineNumber: 33,
+            lineNumber: 32,
             columnNumber: 19
         }, undefined),
         children: [
@@ -3004,7 +3004,7 @@ const appRouter = (0, _reactRouterDom.createBrowserRouter)([
                 // element:<Home/>
                 element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _mainJsDefault.default), {}, void 0, false, {
                     fileName: "src/Ap.js",
-                    lineNumber: 38,
+                    lineNumber: 37,
                     columnNumber: 17
                 }, undefined)
             },
@@ -3012,7 +3012,7 @@ const appRouter = (0, _reactRouterDom.createBrowserRouter)([
                 path: '/about',
                 element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _aboutDefault.default), {}, void 0, false, {
                     fileName: "src/Ap.js",
-                    lineNumber: 42,
+                    lineNumber: 41,
                     columnNumber: 18
                 }, undefined)
             },
@@ -3020,7 +3020,7 @@ const appRouter = (0, _reactRouterDom.createBrowserRouter)([
                 path: '/st',
                 element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _staticdataJsDefault.default), {}, void 0, false, {
                     fileName: "src/Ap.js",
-                    lineNumber: 46,
+                    lineNumber: 45,
                     columnNumber: 18
                 }, undefined)
             },
@@ -3028,7 +3028,7 @@ const appRouter = (0, _reactRouterDom.createBrowserRouter)([
                 path: '/signUp',
                 element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _signUpFormDefault.default), {}, void 0, false, {
                     fileName: "src/Ap.js",
-                    lineNumber: 50,
+                    lineNumber: 49,
                     columnNumber: 18
                 }, undefined)
             },
@@ -3036,7 +3036,7 @@ const appRouter = (0, _reactRouterDom.createBrowserRouter)([
                 path: '/Cart',
                 element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _contentJsDefault.default), {}, void 0, false, {
                     fileName: "src/Ap.js",
-                    lineNumber: 54,
+                    lineNumber: 53,
                     columnNumber: 18
                 }, undefined)
             }
@@ -3048,7 +3048,7 @@ root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.RouterP
     router: appRouter
 }, void 0, false, {
     fileName: "src/Ap.js",
-    lineNumber: 72,
+    lineNumber: 71,
     columnNumber: 4
 }, undefined)) // --------------------Project swiggy--
  // import React from "react";
@@ -35693,136 +35693,7 @@ const Content = ()=>{
 };
 _s(Content, "RzyzNtOIDIR1QsoaWgToX9my8Jk=");
 _c = Content;
-exports.default = Content; // // ---------------------------------------------------Project swiggy--------------------------------------
- // import React, { useEffect, useState } from "react";
- // import RestaurantCard from "./RestaurantCard";
- // import Shimmer from "./Shimmer";
- // import { Link } from 'react-router-dom'
- // const Content = () => {
- //   const [listItems, setListItems] = useState(null);
- //   const [search, setSearch] = useState("");
- //   const [dummyData, setDummyData] = useState(null);
- // useEffect(() => {
- //   if (!listItems) handleFetch();
- //   if (dummyData === null) setDummyData(listItems);
- //   if (search != "") {
- //     const filteredList = listItems.filter((item) => {
- //       if (item.info.name.toLowerCase().includes(search.toLowerCase()))
- //         return item;
- //     });
- //     setDummyData(filteredList);
- //   } else setDummyData(listItems);
- // }, [search, listItems]);
- // const handleFetch = async () => {
- //       try {
- //         const req = await fetch(
- //           "https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.65420&lng=77.23730&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
- //         );
- //         const data = await req.json();
- //         const obj = data?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants;
- //         setListItems(obj);
- //       } catch (error) {
- //         console.error('Error fetching the data:', error);
- //       }
- // };
- // return (
- //   <>
- //     <div className="searchBox">
- //       <input
- //         className="searchInput"
- //         type="text"
- //         placeholder="Search"
- //         value={search}
- //         onChange={(e) => {
- //           setSearch(e.target.value);
- //         }}
- //       ></input>
- //       <button
- //         onSubmit={(e) => {
- //           e.preventDefault;
- //         }}
- //       >
- //         here
- //       </button>
- //     </div>
- //     { dummyData == null && <Shimmer />}
- //     <div className="content">
- //       { dummyData != null &&
- //         dummyData.map((item) => {
- //           // const reqURL = "https://www.swiggy.com/restaurants/";
- //           // const foodID = (item?.cta?.link).slice(reqURL.length,item?.cta?.link.length);            
- //           return (
- //             <Link to={ item.cta.link } key={item.info.id} link={item}> <RestaurantCard
- //               { ...item.info }
- //           /> </Link>
- //           );
- //         })}
- //     </div>
- //   </>
- // );
- // };
- // export default Content;
- // import React, { useEffect, useState } from "react";
- // import RestaurantCard from "./RestaurantCard";
- // import Shimmer from "./Shimmer";
- // import { Link } from 'react-router-dom'
- // const Content = () => {
- //   const [listItems, setListItems] = useState(null);
- //   const [search, setSearch] = useState("");
- //   const [dummyData, setDummyData] = useState(null);
- //   useEffect(() => {
- //     if (!listItems) handleFetch();
- //     if (dummyData === null) setDummyData(listItems);
- //     if (search !== "") {
- //       const filteredList = listItems.filter((item) => {
- //         if (item.info.name.toLowerCase().includes(search.toLowerCase())) return item;
- //       });
- //       setDummyData(filteredList);
- //     } else {
- //       setDummyData(listItems);
- //     }
- //   }, [search, listItems]);
- //   const handleFetch = async () => {
- //     try {
- //       const req = await fetch(
- //         "https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.65420&lng=77.23730&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
- //       );
- //       const data = await req.json();
- //       const obj = data?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants;
- //       setListItems(obj);
- //     } catch (error) {
- //       console.error('Error fetching the data:', error);
- //     }
- //   };
- //   return (
- //     <>
- //       <div className="searchBox">
- //         <input
- //           className="searchInput"
- //           type="text"
- //           placeholder="Search"
- //           value={search}
- //           onChange={(e) => {
- //             setSearch(e.target.value);
- //           }}
- //         ></input>
- //         <button onClick={(e) => e.preventDefault()}>Search</button>
- //       </div>
- //       {dummyData == null && <Shimmer />}
- //       <div className="content">
- //         {dummyData != null &&
- //           dummyData.map((item) => {
- //             return (
- //               <Link to={item.cta.link} key={item.info.id}>
- //                 <RestaurantCard {...item.info} />
- //               </Link>
- //             );
- //           })}
- //       </div>
- //     </>
- //   );
- // };
- // export default Content;
+exports.default = Content;
 var _c;
 $RefreshReg$(_c, "Content");
 

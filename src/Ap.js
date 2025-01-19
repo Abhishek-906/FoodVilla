@@ -21,7 +21,6 @@ const AppLayout = () => {
       <Navbar />
       <Outlet />
       <Footer />
-    
     </>
   )
 }
